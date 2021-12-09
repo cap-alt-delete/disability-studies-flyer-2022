@@ -1,4 +1,4 @@
-# Pitt Disability Studies Flyer - Spring 2022
+# Pitt Disability Studies Flyer - Spring 2022 (made fall 2021)
 
 This flyer was created for an Integrating Writing and Design course, as part of a mini competition to create a flyer for the emerging disability studies program at Pitt. This flyer won and was subsequently circulated by the program to advertise its spring courses. All images were created by me, Lynn Priestley, in Adobe Illustrator. The braille png is pulled from a braille translation generator on https://fontmeme.com/braille/ (and checked against other translations for accuracy).
  The following description of its overall creation process is pulled from my course's final portfolio gloss on this design:
